@@ -10,7 +10,7 @@
 input[type="text"] {
   border: solid 1px var(--primary-color);
   padding: 10px;
-  border-radius: 20px;
+  border-radius: 8px;
   margin-right: 4px;
   display: inline-block;
   width: 30%;
@@ -38,3 +38,9 @@ button {
     grid-template-columns: 1fr;
   }
 }
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
